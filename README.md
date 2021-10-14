@@ -1,2 +1,2 @@
 # school
-I keep my skool work here
+I keep some skool notes here
